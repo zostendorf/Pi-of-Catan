@@ -1,7 +1,7 @@
 # importing tkinter for gui
 import tkinter as tk
 from animate_gif import AnimateGIF 
-from draw_tiles import DrawTiles
+# from draw_tiles import DrawTiles
 from tkinter.constants import RAISED
 from PIL import Image, ImageTk
 
